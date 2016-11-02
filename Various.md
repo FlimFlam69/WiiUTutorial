@@ -1,8 +1,9 @@
-**[Various Things]** [KE13]
+# And Other Various Things... 
 
+In this section, we'll be exploring miscellaneous procedures that will either solve some problems, or enhance the overall user experience. 
 &nbsp;
 
-**[nnupatcher: eShop Access with Dualhax/ Router URL Blocking]** [KE14]
+## nnupatcher: eShop Access with Dualhax/ Router URL Blocking
 
 So, you're looking for eShop access with update blocking procedures on? That's why we have [nnupatcher](https://github.com/dibas/nnupatcher-hbl/releases/tag/0.1)! (Thanks /u/supster131) I will be going through these steps **assuming** you have set your SD card up according to the guide above. 
 
@@ -28,7 +29,7 @@ So, you're looking for eShop access with update blocking procedures on? That's w
 
 &nbsp;
 
-**[Saviine: Injecting Saves]** [KE15]
+## Saviine: Injecting Saves
 
 You are reading this because you want to inject a loadiine save into a game playable via the Wii U main menu. Whether you actually bought the game, or installed it via the Brazilian method, this is what you want to be reading.
 
@@ -83,7 +84,7 @@ Into the 'inject' folder we made in the last step, **Step 4**
 
 &nbsp;
 
-**[Saviine: Dumping Saves]** [KE16]
+## Saviine: Dumping Saves
 
 You are reading this because you want to dump a save from a title installed on the Wii U. You can either share this save online, or use it on a game loaded via loadiine.
 
@@ -119,7 +120,7 @@ You are reading this because you want to dump a save from a title installed on t
 
 &nbsp;
 
-**[SD Card Mount Failed Error]** [KE17]
+## SD Card Mount Failed Error
 
 If you keep getting this error, something is messed up in your SD card. I've found that, for whatever reason, it's because there is *unallocated data* before the FAT32 partition. Let me try to visualize it for you:
 
@@ -155,7 +156,7 @@ And that's the gist of it! This is just a quick write-up on how to generally fix
 
 &nbsp;
 
-**[Nintendo DS Virtual Console Injection]** [KE18]
+## Nintendo DS Virtual Console Injection
 
 This method, as far as I know, **ONLY** applies to the DS.
 
@@ -195,13 +196,13 @@ I’m sorry if any of this is unclear, I’ll give it another look as soon as I 
 
 &nbsp;
 
-**[NES & SNES Virtual Console Injection]** [KE19]
+## NES & SNES Virtual Console Injection
 
 /u/dubyadud has written a tutorial on making NES & SNES VC injections. [Check it out here!](https://www.reddit.com/r/WiiUHacks/comments/4igfgz/injecting_roms_into_vc_games/)
 
 &nbsp;
 
-**[Games Won't Show up in Loadiine]** [KE20]
+## Games Won't Show up in Loadiine
 
 If a game is not showing up in Loadiine and it's definately on the SD card, double check these things:
 
@@ -215,7 +216,7 @@ If it's not one of these things, your game dump may be missing some vital files 
 
 &nbsp;
 
-**[Virtual Console Manual Crash Fix]** [KE21]
+## Virtual Console Manual Crash Fix
 
 This is a fix for the crash that happens when you exit the manual in a VC Inject game. It literally just breaks that function, so the manual will never initiate in the first place. All the credit goes to /u/zeron88 for this fix!
 
@@ -227,7 +228,7 @@ I've personally tested this fix, and it works flawlessly.
 
 &nbsp;
 
-**[Importing and Exporting DS Saves from VC]** [KE22]
+## Importing and Exporting DS Saves from VC to PC emulator
 
 /u/zeron88 figured out a way to do what the title says. I've personally tested this method with Ace Attorney Investigations 2 with DeSmuMe and it worked for me! (As /u/zeron88 says in the original GBATemp thread, this method may need a little more testing.)
 
