@@ -2,6 +2,8 @@
 
 &nbsp;
 
+Your Wii U is in no danger if you decide to run an exploit. This is a very safe procedure, and a relatively simple one at that. Were not soldering anything, or preforming kind of hardware mods; all you need is your **computer**, the **internet** (with a wireless router), a **Wii U**, and an **SD card**.
+
 **LATEST FIRMWARE:** 5.5.1
 
 **LATEST EXPLOITABLE FIRMWARE:** 5.5.1
@@ -11,7 +13,6 @@
 &nbsp;
 ---------------------------------------------------------------------------------------------------------------------------
 
-Your Wii U is in no danger if you decide to run an exploit. This is a very safe procedure, and a relatively simple one at that. Were not soldering anything, or preforming kind of hardware mods; all you need is your **computer**, the **internet** (with a wireless router), a **Wii U**, and an **SD card**.
 
 If you have any other questions, check the FAQ first before you ask! I will try my best to answer any question you have. :)
 ---------------------------------------------------------------------------------------------------------------------------
