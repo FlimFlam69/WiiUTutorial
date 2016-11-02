@@ -13,18 +13,23 @@ If you have any other questions, check the FAQ first before you ask! I will try 
 
 ### 1) [Blocking Updates From Nintendo](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
   
-  Before we get started exploiting the Wii U, we should set the console up to block updates from Nintendo. If your Wii U goes above the latest firmware (5.5.1), you may lose your ability to get to the homebrew launcher and all the other fun stuff. This part of the guide contains the following sections:
+Before we get started exploiting the Wii U, we should set the console up to block updates from Nintendo. If your Wii U goes above the latest firmware (5.5.1), you may lose your ability to get to the homebrew launcher and all the other fun stuff. This part of the guide contains the following sections:
   
 * Dualhax (Tubehax + Chncdcksn hax)
 * Router URL Blocking
 * Disable Automatic Software Downloads
 
-### 2) [Preparing & Running the Kernel Exploit](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
+### 2) [Preparing & Running the Kernel Exploit](https://github.com/FlimFlam69/WiiUTutorial/blob/master/RUNKEXPLOIT.md)
+
+This is where the fun begins! In this section, we'll be setting up the SD card so we can run the kernel exploit. There are a couple way to go about doing this and we'll explore some of those options. This part of the guide contains the following sections:
   
-* **[KE04]** Kernel Exploit Prep Work: *Setting up Your SD Card* 
-* **[KE05]** Running the Kernel Exploit: *The Easy Way* 
-* **[KE06]** Running the Kernel Exploit: *The Self-Hosting Way* 
-* **[KE07]** Running the Kernel Exploit: *Self-Hosting and Taking Your Wii U Offline* 
+* Kernel Exploit Prep Work: *Setting up Your SD Card* 
+* Running the Kernel Exploit: *The Easy Way* 
+* Running the Kernel Exploit: *The Self-Hosting Way* 
+* Running the Kernel Exploit: *Self-Hosting and Taking Your Wii U Offline* 
+
+### 3) [Brazillian Title Install Method ](https://github.com/FlimFlam69/WiiUTutorial/blob/master/RUNKEXPLOIT.md)
+
 * **[KE08]** Brazillian Title Install Method 
    * **[KE09]** Phase 1: uTikDownloadHelper
    * **[KE10]** Phase 2: Formatting the USB HDD
