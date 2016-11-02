@@ -93,7 +93,7 @@ If everything went well, you'll see your new game installed on the menu ready to
 ## Additional Notes
 
 
->These are things you cannot share on this subreddit, doing so will result in a ban, no exceptions*
+> **These are things you cannot share on this subreddit, doing so will result in a ban, no exceptions**
 
 * Wii U Title Keys (16-digit ID)
 * Wii U Common Key (32-character ID)
