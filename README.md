@@ -54,7 +54,11 @@ In this section, we'll be exploring miscellaneous procedures that will either so
    * Games Won't Show up in Loadiine
    * Virtual Console Manual Crash Fix
    * Importing and Exporting DS Saves from VC
-   
-### 5) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md)
+
+### 5) [vWii Modding](http://gbatemp.net/threads/simple-guide-to-install-cios-on-vwii-backup-nand-and-keys.339890/)
+
+vWii translates to *Virtual Wii* which is the built in Wii onto the Wii U. It is very moddable, and the methods we use today haven't changed very much. (There is currently a new way to do it via IOSu hacks outside of the vWii, but we'll save this method for another time.) I have linked you to the guide I had used a couple years ago to hack my vWii, and this was brought to you by [Truth] of GBATemp.
+
+### 6) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md)
 
 For reference, you can find the old archived guide on reddit [here.](https://www.reddit.com/r/WiiUHacks/comments/4i4rv7/flimflam69s_551_kernel_exploit_guide_and_other/)
