@@ -14,9 +14,11 @@ If you have any other questions, check the FAQ first before you ask! I will try 
 ### 1) [Blocking Updates From Nintendo](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
   
   Before we get started exploiting the Wii U, we should set the console up to block updates from Nintendo. If your Wii U goes above the latest firmware (5.5.1), you may lose your ability to get to the homebrew launcher and all the other fun stuff. This part of the guide contains the following sections:
+  
 * Dualhax (Tubehax + Chncdcksn hax)
 * Router URL Blocking
 * Disable Automatic Software Downloads
+
 
 * **[KE04]** Kernel Exploit Prep Work: *Setting up Your SD Card* 
 * **[KE05]** Running the Kernel Exploit: *The Easy Way* 
