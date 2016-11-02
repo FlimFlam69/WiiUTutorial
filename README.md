@@ -5,7 +5,7 @@
 
 Your Wii U is in no danger if you decide to run an exploit. This is a very safe procedure, and a relatively simple one at that. Were not soldering anything, or preforming kind of hardware mods; all you need is your **computer**, the **internet** (with a wireless router), a **Wii U**, and an **SD card**.
 
-If you have any other questions, check the [F.A.Q.](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md) first before you ask! I will try my best to answer any question you have.
+If you have any other questions, check the [F.A.Q.](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md) first before you ask! I will try my best to answer any questions.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
