@@ -41,7 +41,7 @@ This part of the guide contains the following sections:
    * **Phase 3:** Setting up the SD card and Installing our Game
    * Additional Notes
    
-### 4) [And Other Various Things...](https://github.com/FlimFlam69/WiiUTutorial/blob/master/ABrazilianWaysToDoThings.md)
+### 4) [And Other Various Things...](https://github.com/FlimFlam69/WiiUTutorial/blob/master/Various.md)
 
 In this section, we'll be exploring miscellaneous procedures that will either solve some problems, or enhance the overall user experience. This part of the guide contains the following sections:
    
