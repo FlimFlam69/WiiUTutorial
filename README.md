@@ -55,7 +55,7 @@ In this section, we'll be exploring miscellaneous procedures that will either so
 
 ### 5) [vWii Modding](http://gbatemp.net/threads/simple-guide-to-install-cios-on-vwii-backup-nand-and-keys.339890/)
 
-vWii translates to *Virtual Wii* which is the Wii U's built in Wii. It is very moddable, and the methods we use today haven't changed very much. (There is currently a new way to do it via IOSU hacks outside of the vWii, but we'll save this method for another time.) I have linked you to the guide I had used a couple years ago to hack my vWii, and this was written by [Truth] of GBATemp.
+vWii translates to *Virtual Wii* which is the Wii U's built in Wii. It is very moddable, and the methods we use today haven't changed very much. (There is currently a new way to mod the vWii via IOSU hacks outside of vWii functionality, but we'll save this method for another time.) This guide was written by [Truth] of GBATemp, and I used this guide to hack my own vWii.
 
 ### 6) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md)
 
