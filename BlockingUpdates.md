@@ -40,3 +40,8 @@ If your router has the option to block certain URLs from passing through, that's
 As an added precaution, you can also do as the header says: disable automatic software downloads. If you go into internet settings, the option to enable/ disable is below the 'View Mac Address' button. (Thanks /u/KingGhidorah01)
 
 * **Note:** Do NOT use this as a substitute for Tubehax, chncdcksn hax, or Router URL Blocking. This is only something you should do IN ADDITION to Tubehax, chncdcksn hax, or Router URL Blocking. 
+
+&nbsp;
+
+&nbsp;
+## Back to *Table of Contents*
