@@ -28,7 +28,7 @@ We will be grabbing the game of your choice from Nintendo directly in the format
 
 **Step 6)** A command prompt window will pop up and begin to download your game. Depending on how big the game is, it might take a while. When it's completed the download, the window will disappear. You can now close uTikDownloadHelper.
 
-We've now got the game in the correct format with the modified ticket to use later. You're ready for phase 2.
+We've now got the game in the correct format with the modified ticket to use later. You're ready to move on to **Phase 2**.
 
 &nbsp;
 
@@ -52,7 +52,7 @@ If you plan on installing your game onto a USB HDD, then follow these next few s
 
 * **NOTE:** This **will erase** all the contents of the HDD, and it will become unusable when plugged into a PC.
 
-And that's it! Onto phase 3.
+And that's it! Onto **Phase 3**.
 
 &nbsp;
 
