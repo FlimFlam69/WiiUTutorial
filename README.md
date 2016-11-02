@@ -57,4 +57,7 @@ In this section, we'll be exploring miscellaneous procedures that will either so
    
 ### 5) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md)
 
+&nbsp;
+&nbsp;
+&nbsp;
 For reference, you can find the old archived guide on reddit [here.](https://www.reddit.com/r/WiiUHacks/comments/4i4rv7/flimflam69s_551_kernel_exploit_guide_and_other/)
