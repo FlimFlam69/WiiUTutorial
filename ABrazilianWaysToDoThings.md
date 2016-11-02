@@ -104,42 +104,38 @@ If everything went well, you'll see your new game installed on the menu ready to
 * Copyrighted content in general
 
 
-*I get this error in WUP Installer: 0xFFFBF440. What does this mean?*
+> **I get this error in WUP Installer: 0xFFFBF440. What does this mean?**
 
 * The answer to this is unclear at the moment. Modify the originally obtained ticket again, and redownload the game from NUSGrabber. This has been reported to work, even after several attempts.
 
 
-*The installation process failed without giving me a solid error*
+> **The installation process failed without giving me a solid error**
 
 * You may have insufficient space wherever you're trying to install the game to. If you think this happened to you, go into Data Management under System Settings. If you check up on what is installed on your system memory/ USB external drive, it may ask you to delete some unnecessary data. Do that, and restart the install when you believe you have sufficient storage space.
 
 
-*My external HDD is 4TBs and my Wii U says it only has 2TBs. What's going on?*
+> **My external HDD is 4TBs and my Wii U says it only has 2TBs. What's going on?**
 
 * The Wii U can see external USB HDDs that are larger than **2TBs**, but will only utilize **2TBs** of the HDD.
 
 
-*Can I use the same Wii U formatted external HDD alongside my hacked vWii for USB Loader GX/ Nintendont/ etc?*
+> **Can I use the same Wii U formatted external HDD alongside my hacked vWii for USB Loader GX/ Nintendont/ etc?**
 
 * No. When the Wii U formats your external HDD, it formats the whole thing. There is no way to partition it.
 
-*When I enter a title key into UWizard before extracting a WUD, it says it's incorrect. What's going on?*
+> **When I enter a title key into UWizard before extracting a WUD, it says it's incorrect. What's going on?**
 
 * Your WUD might be from a different region, or it might just be as simple as copying over the title key again.
 
-*I can't find a WUD file for [XXXXXX] game*
-
-* I'm not helping you with this. However, WUD files only exist for games that have been physically released. eShop games are not in WUDs, therefore it's not possible to install an eshop game via this Brazilian procedure.
-
-*Can I bring my saves over from Loadiine?*
+> **Can I bring my saves over from Loadiine?**
 
 * Absolutely, you must use Saviine. I plan on doing a write-up about this, but in the mean time - there are multiple guides on how to do this around the internet right now.
 
-*Can I update my games?*
+> **Can I update my games?**
 
 * Yes, it's perfectly safe to update your games via the Wii U. Turn on nnupatcher before updating to make it work. In some cases, nnupatcher is not enough. In these cases, remove dualhax, update your games, and then put dualhax back on.
 
-*Can I hold you responsible if my Wii U bricks?*
+> **Can I hold you responsible if my Wii U bricks?**
 
 * No you can't. That's on you.
 
