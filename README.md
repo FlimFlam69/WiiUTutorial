@@ -19,7 +19,8 @@ If you have any other questions, check the FAQ first before you ask! I will try 
 * Router URL Blocking
 * Disable Automatic Software Downloads
 
-
+### 2) [Preparing & Running the Kernel Exploit](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
+  
 * **[KE04]** Kernel Exploit Prep Work: *Setting up Your SD Card* 
 * **[KE05]** Running the Kernel Exploit: *The Easy Way* 
 * **[KE06]** Running the Kernel Exploit: *The Self-Hosting Way* 
