@@ -55,4 +55,4 @@ In this section, we'll be exploring miscellaneous procedures that will either so
    * Virtual Console Manual Crash Fix
    * Importing and Exporting DS Saves from VC
    
-### 5) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/ABrazilianWaysToDoThings.md)
+### 5) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/faq.md)
