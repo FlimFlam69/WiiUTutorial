@@ -253,3 +253,7 @@ I've personally tested this fix, and it works flawlessly.
 3. Change the extension of the copy from .save to .sav.
 
 [Original thread on GBATemp](https://gbatemp.net/threads/tutorial-importing-and-exporting-vc-ds-saves-testing-needed.427167/)
+
+&nbsp;
+## *Back to [Table of Contents](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md)*
+## *Continue to [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md)*
