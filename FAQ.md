@@ -55,3 +55,6 @@ Update the Wii U to 5.5.1 if it isn't already. The eventual release of the IOSU 
 > **How do I mod Splatoon?**
 
 * Again - I don't really care too much about modding, so I don't plan on doing any write-ups. GBATemp has a bunch of threads about it, and I'm sure other people in /r/wiiuhacks will be able to help you out.
+
+&nbsp;
+## *Back to [Table of Contents](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md)*
