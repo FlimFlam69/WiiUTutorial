@@ -35,7 +35,7 @@ If your router has the option to block certain URLs from passing through, that's
 &nbsp;
 
 
-[Disable Automatic Software Downloads]
+**[Disable Automatic Software Downloads]**
 
 As an added precaution, you can also do as the header says: disable automatic software downloads. If you go into internet settings, the option to enable/ disable is below the 'View Mac Address' button. (Thanks /u/KingGhidorah01)
 
