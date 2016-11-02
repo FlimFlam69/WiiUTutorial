@@ -9,7 +9,7 @@ If you have any other questions, check the FAQ first before you ask! I will try 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-## **[TABLE OF CONTENTS]**
+## **Table of Contents**
 
 ### 1) [Blocking Updates From Nintendo](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
   
