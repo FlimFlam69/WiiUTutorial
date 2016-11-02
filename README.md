@@ -28,7 +28,7 @@ This is where the fun begins! In this section, we'll be setting up the SD card s
 * Running the Kernel Exploit: *The Self-Hosting Way* 
 * Running the Kernel Exploit: *Self-Hosting and Taking Your Wii U Offline* 
 
-### 3) [Brazillian Title Install Method ](https://github.com/FlimFlam69/WiiUTutorial/blob/master/RUNKEXPLOIT.md)
+### 3) [Brazillian Title Install Method](https://github.com/FlimFlam69/WiiUTutorial/blob/master/ABrazilianWaysToDoThings.md)
 
 This is an alternative to loadiine. In a nutshell, we will be installing any game of your choosing to the Wii U itself. This means that if you have an external USB HDD formatted to the Wii U's file format, then you will be able to install whatever game to that USB drive and run it. Going online with these titles **will** work.
 
@@ -41,19 +41,21 @@ This part of the guide contains the following sections:
    * **Phase 3:** Setting up the SD card and Installing our Game
    * Additional Notes
    
+### 4) [And Other Various Things...](https://github.com/FlimFlam69/WiiUTutorial/blob/master/ABrazilianWaysToDoThings.md)
+
+In this section, we'll be exploring miscellaneous procedures that will either solve some problems, or enhance the overall user experience. This part of the guide contains the following sections:
    
+   * nnupatcher: eShop Access with Dualhax/ Router URL Blocking
+   * Saviine: Injecting Saves
+   * Saviine: Dumping Saves
+   * SD Card Mount Failed Error
+   * Nintendo DS Virtual Console Injection
+   * NES & SNES Virtual Console Injection
+   * Games Won't Show up in Loadiine
+   * Virtual Console Manual Crash Fix
+   * Importing and Exporting DS Saves from VC
    
-* **[KE13]** Various Things 
-   * **[KE14]** nnupatcher: eShop Access with Dualhax/ Router URL Blocking
-   * **[KE15]** Saviine: Injecting Saves
-   * **[KE16]** Saviine: Dumping Saves
-   * **[KE17]** SD Card Mount Failed Error
-   * **[KE18]** Nintendo DS Virtual Console Injection
-   * **[KE19]** NES & SNES Virtual Console Injection
-   * **[KE20]** Games Won't Show up in Loadiine
-   * **[KE21]** Virtual Console Manual Crash Fix
-   * **[KE22]** Importing and Exporting DS Saves from VC
-* **[KE23]** Frequently Asked Questions 
+### 5) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/ABrazilianWaysToDoThings.md)
 
 
 ---------------------------------------------------------------------------------------------------------------------------
