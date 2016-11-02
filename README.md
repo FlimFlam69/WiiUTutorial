@@ -14,7 +14,7 @@ Before we get started exploiting the Wii U, we should set the console up to bloc
 
 **[TABLE OF CONTENTS]**
 
-## Blocking Updates
+## [Blocking Updates](https://github.com/FlimFlam69/WiiUTutorial/blob/master/Introduction.md)
    * Dualhax
 * **[KE04]** Kernel Exploit Prep Work: *Setting up Your SD Card* 
 * **[KE05]** Running the Kernel Exploit: *The Easy Way* 
