@@ -19,7 +19,7 @@ Thanks to /u/chncdcksn for the DNS server. The community absolutely appreciates 
 
 ## **[Router URL Blocking]**
 
-If your router has the option to block certain URLs from passing through, that's a way better way of keeping your Wii U safe and connected. After setting this up, I *don't think* you will be able to access the eShop, but you should be able to play games online just fine. (*If you still want eShop access, check out the Various Things section.*) I can't exactly write a guide URL router blocking because everyone's router is different, and more specifically, my router doesn't have that specific function. Here are the URLs to block if you can:
+If your router has the option to block certain URLs from passing through, that's a way better way of keeping your Wii U safe and connected. After setting this up, I *don't think* you will be able to access the eShop, but you should be able to play games online just fine. (*If you still want eShop access, check out the ['And Other Various Things...'](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md) section.*) I can't exactly write a guide URL router blocking because everyone's router is different, and more specifically, my router doesn't have that specific function. Here are the URLs to block if you can:
 
 * nus.cdn.c.shop.nintendowifi.net
 * nus.cdn.shop.wii.com
