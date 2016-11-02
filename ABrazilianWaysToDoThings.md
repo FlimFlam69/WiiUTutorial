@@ -137,4 +137,4 @@ If everything went well, you'll see your new game installed on the menu ready to
 
 &nbsp;
 ## *Back to [Table of Contents](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md)*
-## *Continue to ['And Other Various Things...'](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md)*
+## *Continue to ['And Other Various Things...'](https://github.com/FlimFlam69/WiiUTutorial/blob/master/Various.md)*
