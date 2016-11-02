@@ -5,7 +5,7 @@
 
 Tubehax & chncdcksn hax are two different DNS servers that are used for the purpose of preventing updates through Nintendo. Before we do anything, we need to make sure that your Wii U will remain on 5.5.1 - and this is one of the best/ most popular ways of doing so while still being connected online.
 
-This method sets up both *'Tubehax'* and *'chncdcksn hax'* DNS servers. In the event that Tubehax goes down, the Wii U will automatically use chncdcksn hax instead. (You will not be able to access the eShop through this. If you want eShop access, check out the Various Things section.)
+This method sets up both *'Tubehax'* and *'chncdcksn hax'* DNS servers. In the event that Tubehax goes down, the Wii U will automatically use chncdcksn hax instead. You will not be able to access the eShop through this. If you want eShop access, check out the ['And Other Various Things...'](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md) section.
 
 * Turn Auto-Obtain DNS **OFF**
 * Set Primary DNS to **107.211.140.065** (*Tubehax*)
