@@ -23,10 +23,10 @@ Before we get started exploiting the Wii U, we should set the console up to bloc
 
 This is where the fun begins! In this section, we'll be setting up the SD card so we can run the kernel exploit. There are a couple way to go about doing this and we'll explore some of those options. This part of the guide contains the following sections:
   
-* Kernel Exploit Prep Work: *Setting up Your SD Card* 
-* Running the Kernel Exploit: *The Easy Way* 
-* Running the Kernel Exploit: *The Self-Hosting Way* 
-* Running the Kernel Exploit: *Self-Hosting and Taking Your Wii U Offline* 
+* **Kernel Exploit Prep Work:** *Setting up Your SD Card* 
+* **Running the Kernel Exploit:** *The Easy Way* 
+* **Running the Kernel Exploit:** *The Self-Hosting Way* 
+* **Running the Kernel Exploit:** *Self-Hosting and Taking Your Wii U Offline* 
 
 ### 3) [Brazillian Title Install Method](https://github.com/FlimFlam69/WiiUTutorial/blob/master/ABrazilianWaysToDoThings.md)
 
