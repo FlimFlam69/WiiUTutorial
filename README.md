@@ -10,25 +10,7 @@
 
 &nbsp;
 
----------------------------------------------------------------------------------------------------------------------------
-
-**[Attention]** 
-
-* I know it's archived, well have it fixed soon.
-
-* /u/DanTheMan827 has updated uTikDownloadHelper, effectively omitting 1 phase from the *Brazilian Title Install Method*! The process is now even easier than before.
-
-* Guides on injecting and dumping saves using Saviine are now available. If your looking to bring your Loadiine saves over to titles you've installed using the *Brazilian Title Install Method,* this is for you.
-
-* Looking to hack your vWii? I used [this guide](http://gbatemp.net/threads/simple-guide-to-install-cios-on-vwii-backup-nand-and-keys.339890/) a few years ago. Then [this new method](https://gbatemp.net/threads/wuphax-hacking-vwii-with-iosuhax.446786/) came out a few days ago.
-
----------------------------------------------------------------------------------------------------------------------------
-
-&nbsp;
-
 Your Wii U is in no danger if you decide to run an exploit. This is a very safe procedure, and a relatively simple one at that. Were not soldering anything, or preforming kind of hardware mods; all you need is your **computer**, the **internet** (with a wireless router), a **Wii U**, and an **SD card**.
-
-If you're new, I would suggest taking a look at some things you can do to prevent your Wii U from getting an update from Nintendo. Updating your console will most likely prevent you from running any kind of exploit for a long time (and it will most likely come as an automatic download if your Wii U is always on standby and online). Look at the first four sections of this guide to determine what's best for you. After that, move onto prepping the SD card and try running the exploit the easy way first.
 
 If you have any other questions, check the FAQ first before you ask! I will try my best to answer any question you have. :)
 
