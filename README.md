@@ -11,7 +11,7 @@ If you have any other questions, check the FAQ first before you ask! I will try 
 
 ## **Table of Contents**
 
-### 1) [**Blocking Updates From Nintendo**](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
+### 1) [Blocking Updates From Nintendo](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
   
 Before we get started exploiting the Wii U, we should set the console up to block updates from Nintendo. If your Wii U goes above the latest firmware (5.5.1), you may lose your ability to get to the homebrew launcher and all the other fun stuff. This part of the guide contains the following sections:
   
