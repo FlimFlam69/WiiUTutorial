@@ -1,7 +1,7 @@
 
 # Blocking Updates From Nintendo
 
-## **[Dual hax (Tubehax + Chncdcksn hax)]**
+## **Dual hax (Tubehax + Chncdcksn hax)**
 
 Tubehax & chncdcksn hax are two different DNS servers that are used for the purpose of preventing updates through Nintendo. Before we do anything, we need to make sure that your Wii U will remain on 5.5.1 - and this is one of the best/ most popular ways of doing so while still being connected online.
 
@@ -17,7 +17,7 @@ Thanks to /u/chncdcksn for the DNS server. The community absolutely appreciates 
 
 &nbsp;
 
-## **[Router URL Blocking]**
+## **Router URL Blocking**
 
 If your router has the option to block certain URLs from passing through, that's a way better way of keeping your Wii U safe and connected. After setting this up, I *don't think* you will be able to access the eShop, but you should be able to play games online just fine. (*If you still want eShop access, check out the ['And Other Various Things...'](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md) section.*) Here are the URLs to block if you can:
 
@@ -35,7 +35,7 @@ If your router has the option to block certain URLs from passing through, that's
 &nbsp;
 
 
-## **[Disable Automatic Software Downloads]**
+## **Disable Automatic Software Downloads**
 
 As an added precaution, you can also do as the header says: disable automatic software downloads. If you go into internet settings, the option to enable/ disable is below the 'View Mac Address' button. (Thanks /u/KingGhidorah01)
 
