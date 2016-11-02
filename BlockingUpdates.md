@@ -30,7 +30,7 @@ If your router has the option to block certain URLs from passing through, that's
 * cbvc.cdn.nintendo.net
 * cbvc.nintendo.net
 
-**Note:** Router URL Blocking will block all things Nintendo. This means that if you have a 3DS of any kind, it will not be able to preform updates either. Other Wii U consoles connected to that router won't be able to update as well.
+**Note:** Router URL Blocking will block all things Nintendo. This means that if you have any kind of 3DS, it will not be able to preform updates either. Other Wii U consoles connected to that router won't be able to update as well.
 
 &nbsp;
 
