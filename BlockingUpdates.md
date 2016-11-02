@@ -44,5 +44,5 @@ As an added precaution, you can also do as the header says: disable automatic so
 &nbsp;
 
 &nbsp;
-## *Back to Table of Contents*
-## *Continue to Preparing & Running the Kernel Exploit*
+## *Back to [Table of Contents](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md)*
+## *Continue to [Preparing & Running the Kernel Exploit](https://github.com/FlimFlam69/WiiUTutorial/blob/master/RUNKEXPLOIT.md)*
