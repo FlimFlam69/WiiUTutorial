@@ -123,13 +123,9 @@ If everything went well, you'll see your new game installed on the menu ready to
 
 * No. When the Wii U formats your external HDD, it formats the whole thing. There is no way to partition it.
 
-> **When I enter a title key into UWizard before extracting a WUD, it says it's incorrect. What's going on?**
-
-* Your WUD might be from a different region, or it might just be as simple as copying over the title key again.
-
 > **Can I bring my saves over from Loadiine?**
 
-* Absolutely, you must use Saviine. I plan on doing a write-up about this, but in the mean time - there are multiple guides on how to do this around the internet right now.
+* Absolutely, you must use Saviine. Check out the write up in the ['And Other Various Things...'](https://github.com/FlimFlam69/WiiUTutorial/blob/master/README.md) section.
 
 > **Can I update my games?**
 
