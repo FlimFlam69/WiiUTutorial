@@ -1,20 +1,14 @@
-**[Brazillian Title Install Method]** [KE08]
+# **Brazillian Title Install Method
 
 This is an alternative to loadiine. In a nutshell, we will be installing any game of your choosing to the Wii U itself. This means that if you have an external USB HDD formatted to the Wii U's file format, then you will be able to install whatever game to that USB drive and run it. Going online with these titles **will** work, though at this point it's unclear if it's safe to do so.
 
-&nbsp;
-
----------------------------------------------------------------------------------------------------------------------------
-
-**--Disclaimer--**
-
-/r/WiiUHacks does not condone piracy. In this section I will be presenting tools that access Nintendo's servers to download titles in the desired format for this tutorial. This same method displayed can be used to download content illegally; which we are in no way responsible for your actions regardless of what you chose to do.
+**Disclaimer:** /r/WiiUHacks does not condone piracy. In this section I will be presenting tools that access Nintendo's servers to download titles in the desired format for this tutorial. This same method displayed can be used to download content illegally; which we are in no way responsible for your actions regardless of what you chose to do.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
 &nbsp;
 
-**[Phase 1: uTikDownloadHelper]** [KE09]
+## Phase 1: uTikDownloadHelper
 
 We will be grabbing the game of your choice from Nintendo directly in the format it needs to be in for this to work. Thanks to /u/DanTheMan827 for making uTikDownloadHelper!
 
@@ -40,7 +34,7 @@ We've now got the game in the correct format with the modified ticket to use lat
 
 &nbsp;
 
-**[Phase 2: Formatting the USB HDD]** [KE10]
+## Phase 2: Formatting the USB HDD
 
 If you plan on installing your game onto a USB HDD, then follow these next few steps. We need to format the drive into the specific file system the Wii U wants it to be in. 
 
@@ -64,7 +58,7 @@ And that's it! Onto phase 3.
 
 &nbsp;
 
-**[Phase 3: Setting up the SD card and Installing our Game]** [KE11]
+## Phase 3: Setting up the SD card and Installing our Game
 
 I'm assuming you've already followed the '*Kernel Exploit Prep Work: Setting up Your SD Card*' guide from above.
 
@@ -98,7 +92,7 @@ If everything went well, you'll see your new game installed on the menu ready to
 
 &nbsp;
 
-**[Additional Notes]** [KE12]
+## Additional Notes
 
 
 *These are things you cannot share on this subreddit, doing so will result in a ban, no exceptions*
