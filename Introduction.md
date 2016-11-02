@@ -1,5 +1,5 @@
 
-# Block Updates From Nintendo
+# Blocking Updates From Nintendo
 
 **[Dual hax (Tubehax + Chncdcksn hax)]**
 
