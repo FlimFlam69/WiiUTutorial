@@ -34,6 +34,27 @@ If you have any other questions, check the FAQ first before you ask! I will try 
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+Before we get started exploiting the Wii U, we should set the console up to block updates from Nintendo. If your Wii U goes above the latest firmware (5.5.1), you may lose your ability to get to the homebrew launcher and all the other fun stuff.
+
+* Let's block updates!
+
+* Let's just get started with the exploit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **[TABLE OF CONTENTS]**
 
 * **[KE01]** Dual hax (Tubehax + Chncdcksn hax)
