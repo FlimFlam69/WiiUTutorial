@@ -30,11 +30,20 @@ This is where the fun begins! In this section, we'll be setting up the SD card s
 
 ### 3) [Brazillian Title Install Method ](https://github.com/FlimFlam69/WiiUTutorial/blob/master/RUNKEXPLOIT.md)
 
-* **[KE08]** Brazillian Title Install Method 
-   * **[KE09]** Phase 1: uTikDownloadHelper
-   * **[KE10]** Phase 2: Formatting the USB HDD
-   * **[KE11]** Phase 3: Setting up the SD card and Installing our Game
-   * **[KE12]** Additional Notes
+This is an alternative to loadiine. In a nutshell, we will be installing any game of your choosing to the Wii U itself. This means that if you have an external USB HDD formatted to the Wii U's file format, then you will be able to install whatever game to that USB drive and run it. Going online with these titles **will** work.
+
+**--Disclaimer--**
+/r/WiiUHacks does not condone piracy. In this section I will be presenting tools that access Nintendo's servers to download titles in the desired format for this tutorial. This same method displayed can be used to download content illegally; which we are in no way responsible for your actions regardless of what you chose to do.
+
+This part of the guide contains the following sections:
+
+   * **Phase 1:** uTikDownloadHelper
+   * **Phase 2:** Formatting the USB HDD
+   * **Phase 3:** Setting up the SD card and Installing our Game
+   * Additional Notes
+   
+   
+   
 * **[KE13]** Various Things 
    * **[KE14]** nnupatcher: eShop Access with Dualhax/ Router URL Blocking
    * **[KE15]** Saviine: Injecting Saves
