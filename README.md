@@ -1,23 +1,28 @@
-# FlimFlam69's 5.5.1 Kernel Exploit Guide
+# FlimFlam69's 5.5.1 IOSU + Kernel Exploit Guide
 
-**LATEST FIRMWARE:** 5.5.1  //  **LATEST EXPLOITABLE FIRMWARE:** 5.5.1  //  **RECOMMENDED FIRMWARE:** 5.5.1
+**LATEST // EXPLOITABLE // RECOMMENDED FIRMWARE:** 5.5.1 
 
+Your Wii U is in no danger if you decide to run an exploit. This is a very safe procedure, and a relatively simple one at that. Were not soldering anything, or preforming kind of hardware mods; all you need is an **SD card**, your **computer** (with the ability to write to an SD card), the **internet** (with a wireless router), and a **Wii U**.
 
-Your Wii U is in no danger if you decide to run an exploit. This is a very safe procedure, and a relatively simple one at that. Were not soldering anything, or preforming kind of hardware mods; all you need is your **computer**, the **internet** (with a wireless router), a **Wii U**, and an **SD card**.
-
-If you have any other questions, check the [F.A.Q.](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md) first before you ask! I will try my best to answer any questions.
+If you have any other questions, check the [F.A.Q.](https://github.com/FlimFlam69/WiiUTutorial/wiki/7:-Frequently-Asked-Questions) first before you ask in the Q&A thread! I will try my best to answer any questions.
 
 ## **Table of Contents**
 
-### 1) [Blocking Updates From Nintendo](https://github.com/FlimFlam69/WiiUTutorial/blob/master/BlockingUpdates.md)
-  
+### 0) [Starter Pack Setup](https://github.com/FlimFlam69/WiiUTutorial/wiki/0:-Starter-Pack)
+If you plan on going through the whole guide, this should be your first stop. This section shows you how to setup your SD card correctly, what software to download, and where that software should go on the SD card. It is not required to start here, but I would recommend it. This part of the guide contains the following sections:
+
+* **Guide Prep Work:** *Making Your Own Starter Pack*
+
+### 1) [Blocking Updates From Nintendo](https://github.com/FlimFlam69/WiiUTutorial/wiki/1:-Blocking-Updates-From-Nintendo)
+
 Before we get started exploiting the Wii U, we should set the console up to block updates from Nintendo. If your Wii U goes above the latest firmware (5.5.1), you may lose your ability to get to the homebrew launcher and all the other fun stuff. This part of the guide contains the following sections:
-  
-* Dualhax (Tubehax + Chncdcksn hax)
+
+* Dualhax
+* Blocking Updates with a Proxy Server  
 * Router URL Blocking
 * Disable Automatic Software Downloads
 
-### 2) [Preparing & Running the Kernel Exploit](https://github.com/FlimFlam69/WiiUTutorial/blob/master/RUNKEXPLOIT.md)
+### 2) [Preparing & Running the Kernel Exploit](https://github.com/FlimFlam69/WiiUTutorial/wiki/2:-Preparing-&-Running-the-Kernel-Exploit)
 
 This is where the fun begins! In this section, we'll be setting up the SD card so we can run the kernel exploit. There are a couple way to go about doing this and we'll explore some of those options. This part of the guide contains the following sections:
   
@@ -26,7 +31,24 @@ This is where the fun begins! In this section, we'll be setting up the SD card s
 * **Running the Kernel Exploit:** *The Self-Hosting Way* 
 * **Running the Kernel Exploit:** *Self-Hosting and Taking Your Wii U Offline* 
 
-### 3) [Brazillian Title Install Method](https://github.com/FlimFlam69/WiiUTutorial/blob/master/ABrazilianWaysToDoThings.md)
+### 3) [Installing Haxchi](https://github.com/FlimFlam69/WiiUTutorial/wiki/3:-Installing-Haxchi)
+
+Now let's get our hands a little dirtier! Now that we can get into the Homebrew Launcher, lets install Haxchi to the System Menu so we don't need any wireless connections anymore to run hacks or homebrew. This part of the guide contains the following sections:
+   
+   * Installing Haxchi
+
+### 4) [Installing IOSUhax](https://github.com/FlimFlam69/WiiUTutorial/wiki/4:-Installing-IOSUhax)
+
+So now that we have installed Haxchi, it's now much easier to boot whatever homebrew we want (from the system menu). For some people, just having the homebrew launcher accessible through the system menu is enough, but you're here because you want to go a bit deeper down this rabbit hole. Instead of the homebrew channel, let's boot IOSUhax! This part of the guide contains the following sections:
+   
+   * Choosing Dimok's Patcher or redNAND
+   * Modifying Haxchi
+* Haxchi for Dimok's Simple Signature Check Patcher
+* Haxchi for redNAND
+   * Running redNAND from Homebrew Launcher
+   * Compiling IOSUhax (optional)
+
+### 5) [Brazilian Title Install Method](https://github.com/FlimFlam69/WiiUTutorial/wiki/5:-Brazilian-Title-Install-Method)
 
 This is an alternative to loadiine. In a nutshell, we will be installing any game of your choosing to the Wii U itself. This means that if you have an external USB HDD formatted to the Wii U's file format, then you will be able to install whatever game to that USB drive and run it. Going online with these titles **will** work.
 
@@ -39,7 +61,7 @@ This part of the guide contains the following sections:
    * **Phase 3:** Setting up the SD card and Installing our Game
    * Additional Notes
    
-### 4) [And Other Various Things...](https://github.com/FlimFlam69/WiiUTutorial/blob/master/Various.md)
+### 6) [And Other Various Things...](https://github.com/FlimFlam69/WiiUTutorial/wiki/6:-And-Other-Various-Things...)
 
 In this section, we'll be exploring miscellaneous procedures that will either solve some problems, or enhance the overall user experience. This part of the guide contains the following sections:
    
@@ -53,10 +75,14 @@ In this section, we'll be exploring miscellaneous procedures that will either so
    * Virtual Console Manual Crash Fix
    * Importing and Exporting DS Saves from VC
 
-### 5) [vWii Modding](http://gbatemp.net/threads/simple-guide-to-install-cios-on-vwii-backup-nand-and-keys.339890/)
+### 7) [vWii Modding](https://github.com/FlimFlam69/WiiUTutorial/wiki/7:-vWii-Modding)
 
-vWii translates to *Virtual Wii* which is the Wii U's built in Wii. It is very moddable, and the methods we use today haven't changed very much. (There is currently a new way to mod the vWii via IOSU hacks outside of vWii functionality, but we'll save this method for another time.) This guide was written by [Truth] of GBATemp, and I used this guide to hack my own vWii.
+vWii translates to *Virtual Wii* which is the Wii U's built in Wii. It is very moddable, and the methods we use today have changed a little bit! It's much more painless than what it used to be from a couple of years ago, and I've written this section to make it as easy as possible! This part of the guide contains the following sections:
 
-### 6) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/blob/master/FAQ.md)
+* Wuphax - Installing the Homebrew Channel
+* Dumping the vWii's NAND
+* IOS One-by-One Dumping (Optional)
+* cIOS Installation
+* Additional Information
 
-For reference, you can find the old archived guide on reddit [here.](https://www.reddit.com/r/WiiUHacks/comments/4i4rv7/flimflam69s_551_kernel_exploit_guide_and_other/)
+### 8) [Frequently Asked Questions](https://github.com/FlimFlam69/WiiUTutorial/wiki/8:-Frequently-Asked-Questions)
