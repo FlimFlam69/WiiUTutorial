@@ -1,3 +1,7 @@
+**disc2app** is a great tool that allows you to install your physical Wii U discs as digital titles, so you can play them from an external USB hard drive - or even to the system itself. Fortunately it's a very easy and straight forward process, however - you are required to have atleast **25gbs** free on your SD card.
+
+With that said, let's begin!
+
 **Step 1)** Download the latest [**Modified WUP Installer**](https://github.com/Yardape8000/wupinstaller/releases)
 
 * **NOTE:** If you have taken the time to setup your SD card as instructed by the [starter pack setup guide](https://github.com/FlimFlam69/WiiUTutorial/wiki/0:-Starter-Pack), then you can skip to **Step 5**
