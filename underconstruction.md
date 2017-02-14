@@ -56,12 +56,16 @@ Now we're ready to dump our game. Remember, you need to make sure you have *atle
 
 * **NOTE:** This procedure may take a while depending on the size of the game. 
 
-**Step 10)** Upon completeing the dump, it will take you back to the system menu. Go back into the homebrew launcher with your preferred method and run **WUP Installer - Mod Y**.
+Upon completeing the dump, it will take you back to the system menu. You've successfully dumped your physical Wii U game! Now onto the last phase.
 
-**Step 11)** You'll see a black screen with white text. Pressing A will install your game onto the system memory, and pressing X will install your game to your USB HDD. Read the below note first, and then press one of those buttons depending on what you want to do.
+&nbsp;
 
-* **NOTE:** To be on the safer side of things, we recommend that you install your game onto the external USB HDD first, and then testing the game to see if it runs before installing it onto the system itself.
+## Installing the Dumped Game
 
-Step 11) It'll tell you when it's done with the installation. When it is, press the home button. This will bring you back to the homebrew launcher. From here, get back to the Wii U main menu.
+**Step 1)** Get into the homebrew launcher with your preferred method and run **WUP Installer - Mod Y**.
+
+**Step 2)** You'll see a black screen with white text. Pressing A will install your game onto the system memory, and pressing X will install your game to your USB HDD. Read the below note first, and then press one of those buttons depending on what you want to do.
+
+**Step 3)** It'll tell you when it's done with the installation. When it is, press the home button. This will bring you back to the homebrew launcher. From here, get back to the Wii U main menu.
 
 If everything went well, you'll see your new game installed on the menu ready to be played! You can make sure it installed into the correct directory by checking where it has installed in 'System Settings' under 'Data Management.'
