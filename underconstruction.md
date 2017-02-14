@@ -22,11 +22,16 @@
 
 **Step 8)** Press **'A'** to dump to the SD card.
 
-* **NOTE:** You could dump the game to a FAT32 formatted HDD, but there really isn't a point to for this guide.
-
 **Step 9)** After gaining access to the IOSU, It will ask: "Please insert the disc you want to dump now to begin." Do that.
 
 * **NOTE:** This procedure may take a while depending on the size of the game. 
 
-**Step 10)** Upon completeing the dump, it will take you back to the system menu. Go back into the homebrew launcher with your preferred method and run **WUP Installer MOD**.
+**Step 10)** Upon completeing the dump, it will take you back to the system menu. Go back into the homebrew launcher with your preferred method and run **WUP Installer - Mod Y**.
 
+**Step 11)** You'll see a black screen with white text. Pressing A will install your game onto the system memory, and pressing X will install your game to your USB HDD. Read the below note first, and then press one of those buttons depending on what you want to do.
+
+* **NOTE:** To be on the safer side of things, we recommend that you install your game onto the external USB HDD first, and then testing the game to see if it runs before installing it onto the system itself.
+
+Step 11) It'll tell you when it's done with the installation. When it is, press the home button. This will bring you back to the homebrew launcher. From here, get back to the Wii U main menu.
+
+If everything went well, you'll see your new game installed on the menu ready to be played! You can make sure it installed into the correct directory by checking where it has installed in 'System Settings' under 'Data Management.'
