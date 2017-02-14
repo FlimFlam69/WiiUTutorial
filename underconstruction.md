@@ -1,7 +1,5 @@
 **disc2app** is a tool that allows us to install our physical Wii U discs as digital titles onto our systems. By the end of this tutorial, you'll be playing your physical games off of a connected external harddrives or a system menu in no time! Fortunately it's a very easy and straight forward process, however you are required to have atleast **25gbs** free on your SD card.
 
-&nbsp;
-
 ## Phase 1: Formatting the USB HDD
 
 If you plan on installing your game onto a USB HDD, then follow these next few steps. We need to format the drive into the specific file system the Wii U wants it to be in. If you plan on installing your game onto the system memory, you can skip ahead to the next phase.
