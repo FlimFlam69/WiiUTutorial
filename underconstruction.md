@@ -1,6 +1,6 @@
 **disc2app** is a tool that allows us to install our physical Wii U discs as digital titles onto our systems. By the end of this tutorial, you'll be playing your physical games off of a connected external harddrives or a system menu in no time! Fortunately it's a very easy and straight forward process, however theres a few things we need to do before we can play our newly converted digital titles.
 
-Before we get to **phase 2**, you should know that you're required to have atleast **25gbs** free on the SD card before the disc can be dumped. 
+Before we get to **phase 2**, you should know that you're required to have at least **25gbs** free on the SD card before the disc can be dumped. 
 
 &nbsp'
 
