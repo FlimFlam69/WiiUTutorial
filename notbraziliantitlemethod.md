@@ -1,3 +1,5 @@
+## Secret: Brazilian Title Install Method
+
 This is an alternative to loadiine. In a nutshell, we will be installing any game of your choosing to the Wii U itself. This means that if you have an external USB HDD formatted to the Wii U's file format, then you will be able to install whatever game to that USB drive and run it. Going online with these titles **will** work.
 
 ----------------------------------------------------------------------------------------------------------------------
