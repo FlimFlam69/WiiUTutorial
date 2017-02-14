@@ -22,6 +22,8 @@
 
 **Step 8)** Press **'A'** to dump to the SD card.
 
+* **NOTE:** You could dump the game to a FAT32 formatted HDD, but there really isn't a point to for this guide.
+
 **Step 9)** After gaining access to the IOSU, It will ask: "Please insert the disc you want to dump now to begin." Do that.
 
 * **NOTE:** This procedure may take a while depending on the size of the game. 
