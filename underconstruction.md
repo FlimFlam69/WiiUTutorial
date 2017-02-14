@@ -54,7 +54,7 @@ Now we're ready to dump our game. Remember, you need to make sure you have *atle
 
 **Step 8)** Press **'A'** to dump to the SD card.
 
-**Step 9)** After gaining access to the IOSU, It will ask: "Please insert the disc you want to dump now to begin." Do that.
+**Step 9)** After gaining access to the IOSU, It will state: "Please insert the disc you want to dump now to begin." Do that.
 
 * **NOTE:** This procedure may take a while depending on the size of the game. 
 
